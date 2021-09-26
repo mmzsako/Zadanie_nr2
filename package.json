@@ -1,0 +1,17 @@
+{
+  "name": "zadanie_nr2",
+  "description": "",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmzsako/Zadanie_nr2"
+  },
+  "keywords": [],
+  "author": "Sako",
+  "devDependencies": {
+    "html-validate": "^5.5.0"
+  }
+}
